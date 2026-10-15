@@ -1,0 +1,12 @@
+int32 order_id
+int32 flavor_id
+string flavor_name
+---
+bool success
+bool order_completed
+bool robot_ready
+string process_step
+string error_code
+string message
+---
+string current_step
